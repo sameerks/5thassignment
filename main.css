@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(images/bg-intro-desktop.png);
+    background-color: rgb(236, 89, 89);
+}   
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: white;
+    
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+.try {
+    width: 350px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 30px;
+    background-color: rgb(126, 59, 126);
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;    
+}
+.then {
+    font-weight: lighter;
+}
+.box {
+    margin-top: 20px;
+    background-color: white;
+    width: 380px;
+    height: 450px;
+    margin-left: 15px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    
+}
+.one {
+    margin-left: 15px;
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+
+    
+}
+.two {
+    margin-left: 15px;
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+.three {
+    margin-left: 15px;
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.four {
+    margin-left: 15px;
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+.but {
+    width: 350px;
+    height: 50px;
+    background-color: rgb(165, 214, 74);
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 50px;
+    border: none;
+}
+.pline1 {
+    color: rgb(196, 194, 194);
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
